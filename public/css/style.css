@@ -1,0 +1,20 @@
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.libro{
+    position: relative;
+    display: inline-block;
+    width: 200px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.libro img{
+    margin: auto;
+}
+
+.libro a{
+    font-size: small;
+}
